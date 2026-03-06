@@ -10,14 +10,23 @@ The scanner automatically crawls a target website, analyzes responses, and detec
 ## 🚀 Features
 
 ✅ **Automated Website Crawling** – Discovers internal links within the target domain.
+
 ✅ **SQL Injection Detection** – Identifies potential SQL injection vulnerabilities.
+
 ✅ **Reflected XSS Detection** – Tests pages for reflected cross-site scripting.
+
 ✅ **Form Vulnerability Scanning** – Automatically analyzes input forms.
+
 ✅ **Security Header Analysis** – Detects missing security headers.
+
 ✅ **Clickjacking Detection** – Checks for missing `X-Frame-Options`.
+
 ✅ **Technology Fingerprinting** – Identifies server technologies.
+
 ✅ **Multithreaded Scanning** – Faster scans using concurrent threads.
+
 ✅ **HTML Report Generation** – Generates a readable vulnerability report.
+
 ✅ **JSON Export** – Optional structured vulnerability output.
 
 ---
